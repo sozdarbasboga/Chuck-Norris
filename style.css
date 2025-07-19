@@ -1,0 +1,35 @@
+body {
+  background-color: #1c1c1c;
+  color: #fff;
+  font-family: 'Segoe UI', sans-serif;
+  text-align: center;
+  padding: 50px;
+}
+
+.container {
+  max-width: 600px;
+  margin: 0 auto;
+  background-color: #2e2e2e;
+  border-radius: 10px;
+  padding: 30px;
+  box-shadow: 0 0 10px rgba(255, 255, 255, 0.1);
+}
+
+#joke-box {
+  margin: 20px 0;
+  font-size: 1.4rem;
+}
+
+button {
+  padding: 10px 20px;
+  font-size: 1rem;
+  background-color: #ff4747;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  color: #fff;
+}
+
+button:hover {
+  background-color: #e93f3f;
+}
